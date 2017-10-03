@@ -7,13 +7,8 @@ end
 
 greeting
 
-def broken_print_and_return_name
-  puts "Guy Fieri"
-  "Guy Fieri"
-end
-
 def stylish_chef
-  best_hairstyle = "Guy"
-  return "Martha"
+  best_hairstyle = "Guy Fieri"
+  return "Martha Stewart"
   "Guy Fieri"
 end
