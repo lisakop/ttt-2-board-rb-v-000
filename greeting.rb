@@ -7,10 +7,7 @@ end
 
 greeting
 
-def print_name
+def print_and_return_name
   puts "Guy Fieri"
-end
-
-def return_name
   "Guy Fieri"
 end
