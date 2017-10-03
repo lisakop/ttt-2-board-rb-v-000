@@ -8,7 +8,7 @@ end
 greeting
 
 def print_name
-  "Guy Fieri"
+  puts "Guy Fieri"
 end
 
 def return_name
