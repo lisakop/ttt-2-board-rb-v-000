@@ -6,3 +6,11 @@ def greeting
 end
 
 greeting
+
+def print_name
+  "Guy Fieri"
+end
+
+def return_name
+  "Guy Fieri"
+end
