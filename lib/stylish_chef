@@ -1,7 +1,9 @@
-chef = stylish_chef
+stylish = #{stylish_chef}
 
 def stylish_chef
   best_hairstyle = "Guy Fieri"
   return "Martha Stewart"
   "Guy Fieri"
 end
+
+stylish chef
